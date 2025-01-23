@@ -2,7 +2,7 @@ package sort;
 
 import java.util.Arrays;
 
-public class BubbleAndOtherwise {
+public class ShakerSort {
 
 	public static int[] bubbleSort(int[] arr) {
 		int sortedIndex1 = arr.length;
